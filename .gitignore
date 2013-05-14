@@ -15,11 +15,11 @@ public/uploads/
 nohup.out
 Vagrantfile
 .vagrant
-config/gitlab.yml
-config/database.yml
+#config/gitlab.yml
+#config/database.yml
 config/initializers/omniauth.rb
 config/unicorn.rb
-config/puma.rb
+#config/puma.rb
 config/resque.yml
 config/aws.yml
 db/data.yml
