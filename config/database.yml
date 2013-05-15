@@ -7,9 +7,9 @@ production:
   database: gitlabhq_production
   pool: 5
   username: git
-  password: Eforo5Epub52
+  password: CHANGEME
   # host: localhost
-  # port: 5432 
+  # port: 5432
   # socket: /tmp/postgresql.sock
 
 #
